@@ -1,0 +1,38 @@
+body{
+	background-image: url('D:\slide-bg02.jpg');
+	background-size: cover;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+}
+p{
+	font-family: times new roman;
+	font-style: italic;
+	color: darkviolet;
+	font-size: 20px;
+}
+ address{
+ 	text-align: right;
+	font-size: 20px;
+	color: white;
+}
+ul{
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:red;
+	
+}
+li{
+	float: left;
+}
+li a {
+	text-align: center;
+	display: block;
+	color: black;
+	padding: 5px;
+	text-decoration: none;
+}
